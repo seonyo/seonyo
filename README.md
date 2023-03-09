@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Young's<br/>Github!&fontSize=90" />
 <br/>
 <div align = "center">
+    
 
-    
-    
-    
-  <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonyo&langs_count=8)](https://github.com/seonyo/github-readme-stats)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonyo&show_icons=true&theme=radical)
+<br/>
   
   
 💫 __Languages__ 💫
@@ -29,8 +29,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
         <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android&logoColor=white"/>
 
- 
-  </div>
+ </div>
 
 
 <!--
