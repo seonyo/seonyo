@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Young's<br/>Github!&fontSize=90" />
 <br/>
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=seonyo&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonyo&layout=compact">
 
+    
+    
     
   <br/>
   
