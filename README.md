@@ -3,7 +3,8 @@
 <div align = "center">
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonyo&show_icons=true&theme)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonyo&langs_count=8)](https://github.com/seonyo/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonyo&layout=compact"><br><br>
+
 
 <br/>
   
