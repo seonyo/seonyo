@@ -2,11 +2,9 @@
 <br/>
 <div align = "center">
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonyo&show_icons=true&theme)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonyo&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=seonyo&show_icons=true"> <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonyo&layout=compact&theme=compact)   <br>
 
-
-<br/>
   
   
 💫 __Languages__ 💫
@@ -14,7 +12,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flact&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <br>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
