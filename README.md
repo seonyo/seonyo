@@ -2,7 +2,7 @@
 <br/>
 <div align = "center">
     
-<img src="https://github-readme-stats.vercel.app/api?username=seonyo&show_icons=true"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonyo&layout=compact&theme=compact)   <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=seonyo&show_icons=true"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonyo&layout=compact&theme=compact)   <br>
 
   
   
