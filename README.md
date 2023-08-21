@@ -12,7 +12,7 @@ const information = {
   school: 'Mirim Meister HighSchool',
   github: 'https://github.com/seonyo',
   tistory: 'https://youngging2.tistory.com/',
-  email: 'qorwlalsjimin@naver.com'
+  email: 's2236@e-mirim.hs.kr'
  };  
 ```
 
