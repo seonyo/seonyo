@@ -27,7 +27,6 @@ const information = {
 
 
 ### 💁🏻‍♀️I want to learn or learning
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F4?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F4?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 
 
