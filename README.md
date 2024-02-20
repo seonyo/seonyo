@@ -20,14 +20,12 @@ const information = {
 
 ### 👩🏻‍💻My Interest 
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/PHP -777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/PHP -777BB4?style=for-the-badge&logo=PHP&logoColor=white">
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F4?style=for-the-badge&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 
 ### 💁🏻‍♀️I want to learn or learning
-<img src="https://img.shields.io/badge/Spring-6DB33F4?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"> 
-<img src = "https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge">
-
+<img src = "https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 
