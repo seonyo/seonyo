@@ -24,8 +24,9 @@ const information = {
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
  <img src="https://img.shields.io/badge/Spring-6DB33F4?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 
 
 ### 💁🏻‍♀️I want to learn or learning
-<img src = "https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+<img src = "https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge"> 
 
