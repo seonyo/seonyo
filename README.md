@@ -20,7 +20,7 @@ const information = {
 ### 👩🏻‍💻My Interest 
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/PHP -777BB4?style=for-the-badge&logo=PHP&logoColor=white">
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white">
  <img src="https://img.shields.io/badge/Spring-6DB33F4?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
