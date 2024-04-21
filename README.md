@@ -9,7 +9,6 @@
 const information = {
   name: '정선영',
   school: 'Mirim Meister HighSchool',
-  github: 'https://github.com/seonyo',
   tistory: 'https://youngging2.tistory.com/',
   velog: 'https://velog.io/@seonyo/posts',
   email: 's2236@e-mirim.hs.kr'
