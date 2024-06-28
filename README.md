@@ -1,10 +1,3 @@
-## 안녕하세요😎
-<p>  
-    <br/>
-    <b>백엔드 개발자</b>가 되고 싶은 정선영입니다🖐️
-</p>
-<br/>
-
 ``` javascript
 const information = {
   name: '정선영',
